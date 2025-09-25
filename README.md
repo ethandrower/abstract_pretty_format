@@ -33,9 +33,13 @@ Abstract Format is an open-source Python library that uses advanced NLP techniqu
 
 ## 📦 Installation
 
-### Option 1: pip install (recommended)
+### Option 1: Install from GitHub release (recommended)
 ```bash
-pip install abstract-format
+# Install latest release
+pip install git+https://github.com/citemed/abstract-format.git@v0.1.0
+
+# Or install from main branch
+pip install git+https://github.com/citemed/abstract-format.git
 ```
 
 ### Option 2: From source
@@ -257,8 +261,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🔗 Links
 
 - **Homepage**: https://github.com/citemed/abstract-format
-- **Documentation**: https://abstract-format.readthedocs.io
-- **PyPI**: https://pypi.org/project/abstract-format
+- **Latest Release**: https://github.com/citemed/abstract-format/releases/latest
 - **Issues**: https://github.com/citemed/abstract-format/issues
 
 ---
