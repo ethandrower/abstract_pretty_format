@@ -36,16 +36,16 @@ Abstract Format is an open-source Python library that uses advanced NLP techniqu
 ### Option 1: Install from GitHub release (recommended)
 ```bash
 # Install latest release
-pip install git+https://github.com/citemed/abstract-format.git@v0.1.0
+pip install git+https://github.com/ethandrower/abstract_pretty_format.git@v0.1.0
 
 # Or install from main branch
-pip install git+https://github.com/citemed/abstract-format.git
+pip install git+https://github.com/ethandrower/abstract_pretty_format.git
 ```
 
 ### Option 2: From source
 ```bash
-git clone https://github.com/citemed/abstract-format.git
-cd abstract-format
+git clone https://github.com/ethandrower/abstract_pretty_format.git
+cd abstract_pretty_format
 pip install -e .
 ```
 
@@ -216,15 +216,15 @@ We welcome contributions! Here's how:
 
 ### Development Setup
 ```bash
-git clone https://github.com/citemed/abstract-format.git
-cd abstract-format
+git clone https://github.com/ethandrower/abstract_pretty_format.git
+cd abstract_pretty_format
 pip install -e ".[dev]"
 python -m spacy download en_core_web_sm
 ```
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use [GitHub Issues](https://github.com/citemed/abstract-format/issues) for:
+Please use [GitHub Issues](https://github.com/ethandrower/abstract_pretty_format/issues) for:
 - 🐛 Bug reports
 - 💡 Feature requests  
 - 📖 Documentation improvements
@@ -260,9 +260,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
-- **Homepage**: https://github.com/citemed/abstract-format
-- **Latest Release**: https://github.com/citemed/abstract-format/releases/latest
-- **Issues**: https://github.com/citemed/abstract-format/issues
+- **Homepage**: https://github.com/ethandrower/abstract_pretty_format
+- **Latest Release**: https://github.com/ethandrower/abstract_pretty_format/releases/latest
+- **Issues**: https://github.com/ethandrower/abstract_pretty_format/issues
 
 ---
 
